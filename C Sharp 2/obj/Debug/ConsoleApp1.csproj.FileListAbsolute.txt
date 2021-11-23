@@ -1,0 +1,6 @@
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
